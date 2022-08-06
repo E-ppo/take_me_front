@@ -116,9 +116,10 @@
     <td align="center"><strong>티끌</strong></td>
     <td align="center"><strong>랭킹</strong></td>
   <tr>
-    <td align="center"><a href="" target='_blank'><img src="https://velog.velcdn.com/images/eppo/post/6536bb26-5e8a-4db6-86d6-2f7c8ea6d81e/image.gif" width="300px" /></a></td>
-    <td align="center"><a href="" target='_blank'><img src="https://velog.velcdn.com/images/eppo/post/70335f23-a938-4349-ad80-b660e9a7085d/image.gif" width="300px" /></a></td>
-    <td align="center"><a href="" target='_blank'><img src="https://s3.ap-northeast-2.amazonaws.com/tikkeeul.com/preview/%E1%84%85%E1%85%A2%E1%86%BC%E1%84%8F%E1%85%B5%E1%86%BC.gif" width="300px"></a></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/6536bb26-5e8a-4db6-86d6-2f7c8ea6d81e/image.gif" width="200px" /></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/70335f23-a938-4349-ad80-b660e9a7085d/image.gif" width="200px" /></td>
+    <td align="center">
+    <img src="https://s3.ap-northeast-2.amazonaws.com/tikkeeul.com/preview/%E1%84%85%E1%85%A2%E1%86%BC%E1%84%8F%E1%85%B5%E1%86%BC.gif" width="200px"></a></td>
   </tr>
   <tr>
       <td align="center"><b>커뮤니티</b></td>
