@@ -1,7 +1,9 @@
 # <img width="30px" src="https://user-images.githubusercontent.com/77655749/182784520-0eaf9f85-fbca-4c81-96ae-0471c3df3bc5.png"/>  Tikkeeul
-<a href="https://www.tikkeeul.com/"><img width="980px" src="https://user-images.githubusercontent.com/77655749/182780783-e231616d-9b8e-431c-8226-01f031cee103.png"/></a>
+<a href="https://www.tikkeeul.com/"><img width="980px" src="https://user-images.githubusercontent.com/85613861/182782684-385fce94-b961-4e53-9d63-7bb35d3062cb.png"/></a>
 
 <br> 
+
+
 
 ## 📌 바로가기
 
