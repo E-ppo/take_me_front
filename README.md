@@ -22,9 +22,9 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/epppo" target='_blank'><img src="https://avatars.githubusercontent.com/u/93433413?v=4" width="120px" /></a></td>
-    <td align="center"><a href="https://github.com/Eunjin09" target='_blank'><img src="https://avatars.githubusercontent.com/u/77655749?v=4" width="120px" /></a></td>
-    <td align="center"><a href="https://github.com/yupja" target='_blank'><img src="https://avatars.githubusercontent.com/u/105037404?v=4" width="120px" /></a></td>
+    <td align="center"><a href="https://github.com/epppo"><img src="https://avatars.githubusercontent.com/u/93433413?v=4" width="120px" /></a></td>
+    <td align="center"><a href="https://github.com/Eunjin09"><img src="https://avatars.githubusercontent.com/u/77655749?v=4" width="120px" /></a></td>
+    <td align="center"><a href="https://github.com/yupja"><img src="https://avatars.githubusercontent.com/u/105037404?v=4" width="120px" /></a></td>
   <tr>
     <td align="center"><strong>이보람</strong></td>
     <td align="center"><strong>김은진</strong></td>
