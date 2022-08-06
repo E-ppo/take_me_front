@@ -44,35 +44,23 @@
   </tr>
 </table>
 
-#### 🐰 이보람
+#### 이보람
 <details>
 <summary> 페이지 / 기능 </summary>
 <br>
-* 📋 페이지
-  * 데일리티끌
-  * 커뮤니티
-  * 랭크
-  <br>
+📋 페이지
+<br>
   
- * 기능
-  * 태산(목표)
-    * 태산 검색/등록/수정/삭제/공유 기능
-      * 태산 검색/등록
-        * DB에 등록되어있는 아이템은 자동완성 기능을 구현해 데이터베이스에 있는 자료를 최대한 활용하여 
-                사용자가 불필요한 정보를 입력하지 않도록 간편등록 기능을 제공
-                - DB에 없는 아이템은 사용자의 자유도를 위해서 아이템등록+태산등록이 동시에 진행될 수 있도록 플렛폼 제공
-                - 사용자가 지정한 태산을 접속 후 바로 이미지로 볼수 있도록 화면 구성하여
-                동기부여, 만약 지정한 이미지가 없을 경우 아이템 카테고리 이미지를 대체하여 표현할 수 있도록 구현
-            - 태산(목표) 정보 확인
-                - 슬라이드바를 활용해서 좁은 모바일 환경에 많은 정보를 담을 수 있도록 기능 구현
-                - 도넛 그래프와 프로그래스 바를 적용해 목표에 얼마나 달성했는지 시각적으로 표현
-            - 수정/삭제/공유
-                - 태산정보 페이지에서 터치 시, 태산메뉴 수정/삭제가 가능하도록 UI 추가
-                - 메인 페이지인데일리 티끌에서 현재 진행중인 태산 목록에 대해 자랑/소통할 수 있도록  커뮤니티 게시판의 티끌자랑과 연동
-        - 티끌(아끼기항목) 검색/등록/수정/삭제/즐겨찾기 기능
-            - 자동완성검색바를 구현하여 DB에 있는 아이템을 티끌로 바로 등록할 수 있도록 구현
-            - 티끌 등록 시 즐겨찾기
+* 데일리티끌 
+* 커뮤니티
+* 랭크
+ <br>
   
+ ⚙ 기능
+  * 태산(목표)<br>
+  `아이템등록`,`(DB에 기등록된)태산 검색`,`태산등록`,`태산수정`,`태산삭제`,<br>
+  `태산정보확인`,`태산공유(커뮤니티연동)`<br><br><br>
+      
   
 
 <br>
@@ -121,7 +109,30 @@
 
 
 ## 🤸🏻‍♂️ 티끌 미리보기
-6개 화면
+
+<table>
+  <tr>
+    <td align="center"><strong>태산</strong></td>
+    <td align="center"><strong>티끌</strong></td>
+    <td align="center"><strong>랭킹</strong></td>
+  <tr>
+    <td align="center"><a href="" target='_blank'><img src="https://s3.ap-northeast-2.amazonaws.com/tikkeeul.com/preview/%E1%84%90%E1%85%A2%E1%84%89%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%A8%3A%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%3A%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6.gif" width="300px" /></a></td>
+    <td align="center"><a href="" target='_blank'><img src="https://s3.ap-northeast-2.amazonaws.com/tikkeeul.com/preview/%E1%84%90%E1%85%B5%E1%84%81%E1%85%B3%E1%86%AF%E1%84%83%E1%85%B3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%A8%3A%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%3A%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6%3A%E1%84%8C%E1%85%B3%E1%86%AF%E1%84%80%E1%85%A7%E1%84%8E%E1%85%A1%E1%86%BD%E1%84%80%E1%85%B5.gif" width="300px" /></a></td>
+    <td align="center"><a href="" target='_blank'><img src="https://s3.ap-northeast-2.amazonaws.com/tikkeeul.com/preview/%E1%84%85%E1%85%A2%E1%86%BC%E1%84%8F%E1%85%B5%E1%86%BC.gif" width="300px"></a></td>
+  </tr>
+  <tr>
+      <td align="center"><b>커뮤니티</b></td>
+      <td align="center"><b>실시간 채팅</b></td>
+      <td align="center"><b>종료된 채팅</b></td>
+<!--     <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Design</b></td> -->
+  <tr>
+    <td align="center"><a href="" target='_blank'><img src="https://s3.ap-northeast-2.amazonaws.com/tikkeeul.com/preview/%E1%84%8F%E1%85%A5%E1%84%86%E1%85%B2%E1%84%82%E1%85%B5%E1%84%90%E1%85%B5.gif" width="300px"/></a></td>
+    <td align="center"><a href="" target='_blank'><img src="" width="300px" /></a></td>
+    <td align="center"><a href="" target='_blank'><img src="" width="300px"></a></td>
+  </tr>
+</table>
+
 
 <br>
 
