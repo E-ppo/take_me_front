@@ -104,7 +104,7 @@
 </details>
   
   
-#### 🐨 이재엽
+#### 이재엽
 
 <details>
 <summary> 페이지 / 기능 </summary>
