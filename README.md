@@ -111,24 +111,31 @@
     <td align="center"><strong>티끌</strong></td>
     <td align="center"><strong>랭킹</strong></td>
   <tr>
-    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/6536bb26-5e8a-4db6-86d6-2f7c8ea6d81e/image.gif" width="200px" /></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/6536bb26-5e8a-4db6-86d6-2f7c8ea6d81e/image.gif" width="200px"/></td>
     <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/70335f23-a938-4349-ad80-b660e9a7085d/image.gif" width="200px" /></td>
-    <td align="center">
-    <img src="https://s3.ap-northeast-2.amazonaws.com/tikkeeul.com/preview/%E1%84%85%E1%85%A2%E1%86%BC%E1%84%8F%E1%85%B5%E1%86%BC.gif" width="200px"></a></td>
+    <td align="center"><img src="https://s3.ap-northeast-2.amazonaws.com/tikkeeul.com/preview/%E1%84%85%E1%85%A2%E1%86%BC%E1%84%8F%E1%85%B5%E1%86%BC.gif" width="200px"></a></td>
   </tr>
   <tr>
       <td align="center"><b>커뮤니티</b></td>
-      <td align="center"><b>실시간 채팅</b></td>
-      <td align="center"><b>종료된 채팅</b></td>
-<!--     <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Design</b></td> -->
+      <td align="center"><b>타이머 채팅방 만들기</b></td>
+      <td align="center"><b>실시간 채팅방</b></td>
   <tr>
-    <td align="center"><a href="" target='_blank'><img src="https://s3.ap-northeast-2.amazonaws.com/tikkeeul.com/preview/%E1%84%8F%E1%85%A5%E1%84%86%E1%85%B2%E1%84%82%E1%85%B5%E1%84%90%E1%85%B5.gif" width="300px"/></a></td>
-    <td align="center"><a href="" target='_blank'><img src="" width="300px" /></a></td>
-    <td align="center"><a href="" target='_blank'><img src="" width="300px"></a></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/a24d0a4b-3dfd-46de-a940-aa75e7bd4991/image.gif" width="200px"/></a></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/dab44996-6439-4303-a8ab-47057bcf570c/image.gif" width="200px" /></a></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/4016a164-1d50-4a20-b14d-e3e13ab5c111/image.gif" width="200px"></a></td>
   </tr>
-</table>
+  <tr>
+      <td align="center"><b>종료된 채팅방</b></td>
+      <td align="center"><b>마이페이지</b></td>
+      <td align="center"><b></b></td>
+  <tr>
+    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/2f107e35-0095-4005-b98e-415bb0bf30dd/image.png" width="200px"/></a></td>
+    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/9967bffd-8330-4382-bf0f-e868b149e654/image.gif" width="200px"/></a></td>
+    <td align="center"><img src?"" width="200px"></a></td>
+  </tr>
 
+</table>
+ 
 
 <br>
 
