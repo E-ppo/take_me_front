@@ -111,26 +111,26 @@
     <td align="center"><strong>티끌</strong></td>
     <td align="center"><strong>랭킹</strong></td>
   <tr>
-    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/6536bb26-5e8a-4db6-86d6-2f7c8ea6d81e/image.gif" width="200px"/></td>
-    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/70335f23-a938-4349-ad80-b660e9a7085d/image.gif" width="200px" /></td>
-    <td align="center"><img src="https://s3.ap-northeast-2.amazonaws.com/tikkeeul.com/preview/%E1%84%85%E1%85%A2%E1%86%BC%E1%84%8F%E1%85%B5%E1%86%BC.gif" width="200px"></a></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183251005-23ebbfd2-5255-4658-876e-91f4c12825c1.gif" width="200px"/></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183251115-8af021d8-485b-4631-86ff-c4f4b8b19e4c.gif" width="200px" /></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183250901-4f516c17-1b48-4e01-9ed6-62fd76490bbe.gif" width="200px"></a></td>
   </tr>
   <tr>
       <td align="center"><b>커뮤니티</b></td>
       <td align="center"><b>타이머 채팅방 만들기</b></td>
       <td align="center"><b>실시간 채팅방</b></td>
   <tr>
-    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/a24d0a4b-3dfd-46de-a940-aa75e7bd4991/image.gif" width="200px"/></a></td>
-    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/dab44996-6439-4303-a8ab-47057bcf570c/image.gif" width="200px" /></a></td>
-    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/4016a164-1d50-4a20-b14d-e3e13ab5c111/image.gif" width="200px"></a></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183251006-fc81981c-4f81-44ca-95a0-ba0fe4810002.gif" width="200px"/></a></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183250931-3b9e616e-6c94-4740-97c1-c15520245242.gif" width="200px" /></a></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183250926-196c2bc6-ab2e-4c6c-acbe-668e0193fca8.gif" width="200px"></a></td>
   </tr>
   <tr>
       <td align="center"><b>종료된 채팅방</b></td>
       <td align="center"><b>마이페이지</b></td>
       <td align="center"><b></b></td>
   <tr>
-    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/2f107e35-0095-4005-b98e-415bb0bf30dd/image.png" width="200px"/></a></td>
-    <td align="center"><img src="https://velog.velcdn.com/images/eppo/post/9967bffd-8330-4382-bf0f-e868b149e654/image.gif" width="200px"/></a></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183250917-c33e6bca-b13d-4a94-8a92-8c2c6c843276.png" width="200px"/></a></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/93433413/183250903-adc4e6c3-c8dd-4c8f-b32a-5220b8190234.gif" width="200px"/></a></td>
     <td align="center"><img src?"" width="200px"></a></td>
   </tr>
 
