@@ -27,6 +27,7 @@
     <td align="center"><img src="https://avatars.githubusercontent.com/u/93433413?v=4" width="120px"/></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/77655749?v=4" width="120px"/></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/105037404?v=4" width="120px"/></td>
+
   <tr>
     <td align="center"><strong>이보람</strong></td>
     <td align="center"><strong>김은진</strong></td>
@@ -43,8 +44,26 @@
       <td align="center"><a href="https://github.com/epppo" target='_blank'>github</a></td>
       <td align="center"><a href="https://github.com/Eunjin09" target='_blank'>github</a></td>
       <td align="center"><a href="https://github.com/yupja" target='_blank'>github</a></td>
+     
   </tr>
 </table>
+
+<table>
+	<tr>
+    	<td align="center"><img src="https://velog.velcdn.com/images/eppo/post/f3fa6df9-e89b-49e4-8816-8f447079b6fa/image.png" width="120px"/></td>
+    </tr>
+    <tr>
+        <td align="center"><strong>박연아</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Designer</b></td>
+    </tr>
+    <tr>
+    	<td align="center"><a href="pyeona93@gmail.com" target='_blank'>E-mail</a></td>
+    </tr>
+</table>
+
+
 
 #### 이보람
 <details>
